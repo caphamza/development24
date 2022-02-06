@@ -22,3 +22,4 @@ What more can be done with time
 6. Unit Testing/edge cases
 
 No UI library used in the project
+Screenshots are added in the Screenshot folder
