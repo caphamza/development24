@@ -7,7 +7,9 @@ The code will work only in IOS as Firestore settings are not integrated into and
 What's focused
 
 1.Functionality
+
 2.Code reusabeility
+
 3.Schema design (firestore)
 
 What more can be done with time
