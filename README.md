@@ -18,6 +18,6 @@ What more can be done with time
 3. icons can be added
 4. Type checking of Firestore response
 5. Error Handling
-6. Unit Testing
+6. Unit Testing/edge cases
 
 No UI library used in the project
