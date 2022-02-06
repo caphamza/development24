@@ -20,6 +20,7 @@ What more can be done with time
 4. Type checking of Firestore response
 5. Error Handling
 6. Unit Testing/edge cases
+7. Additional screen at the end of the test to output the result
 
 No UI library used in the project.
 Screenshots are added in the Screenshot folder
