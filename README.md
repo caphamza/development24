@@ -2,14 +2,14 @@
 
 Clone the project - npm i - npx pod-install - react-native run-ios
 
-The code will work only in IOS as Firestore settings are not integrated into android due tolack of time
+The code will work only in IOS as Firestore settings are not integrated into android due to lack of time
 
 What's focused
 
 1.Functionality
 2.Code reusabeility
 3.Schema design (firestore)
-4.What's not focused (because of time)
+
 
 What more can be done with time
 
