@@ -10,7 +10,6 @@ What's focused
 2.Code reusabeility
 3.Schema design (firestore)
 
-
 What more can be done with time
 
 1. UI can be improved a lot
