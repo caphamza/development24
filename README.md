@@ -5,12 +5,9 @@ Clone the project - npm i - npx pod-install - react-native run-ios
 The code will work only in IOS as Firestore settings are not integrated into android due to lack of time
 
 What's focused
-
-1.Functionality
-
-2.Code reusabeility
-
-3.Schema design (firestore)
+1. Functionality
+2. UX (fetch data at once. so even if during the Quiz internet disconnects user can complete current Quiz)
+3. Schema Design (Schema designed by keeping in mind the complete workflow. although workflow is not completed because of time)
 
 What more can be done with time
 
